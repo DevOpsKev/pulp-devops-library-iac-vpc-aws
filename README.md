@@ -1,4 +1,4 @@
-<a href="https://www.pulpdigital.com/" target="_blank">
+<a href="https://pulpdigital.com/" target="_blank">
 <img src="_assets/logo.png" width="450" />
 </a>
 
