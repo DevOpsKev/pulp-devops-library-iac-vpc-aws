@@ -16,7 +16,7 @@ This repository contains the [terraform](https://www.terraform.io/) configuratio
 
 ## Quick start
 
-[![Quick Start Video](/_assets/video-graphics.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Quick Start Video](/_assets/video-graphics.png)](https://media.pulpdigital.com/)
 
 ## How to use this repo
 
