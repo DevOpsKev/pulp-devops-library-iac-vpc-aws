@@ -3,7 +3,7 @@
 </a>
 
 [![Maintained by Pulp Digital Engineering](https://img.shields.io/badge/maintained%20by-pulp%20digital%20engineering-D200FF?style=flat-square)](https://pulpdigital.com/) 
-[![Built for Engineers](https://img.shields.io/badge/project-devops%20library-fa4952?style=flat-square)](https://www.pulpdigital.com/library)
+[![Built for Engineers](https://img.shields.io/badge/project-devops%20library-f7923b?style=flat-square)](https://www.pulpdigital.com/library)
 [![Terraform Version](https://img.shields.io/badge/terraform-=>%200.14.7-green?style=flat-square)](https://github.com/hashicorp/terraform) 
 [![Hashicorp/AWS Version](https://img.shields.io/badge/hashicorp/aws-=>%203.0-green?style=flat-square)](https://github.com/hashicorp/terraform-provider-aws) 
 [![Latest](https://img.shields.io/badge/latest-0.0.0-green?style=flat-square)](../../releases) 
