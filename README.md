@@ -101,3 +101,7 @@ This code is released under the Apache 2.0 License. Please see
 [NOTICE](/NOTICE) for more details.
 
 Copyright &copy; 2021 https://pulpdigital.com
+
+<a href="https://pulpdigital.com/" target="_blank">
+<img src="_assets/train-hard.png"/>
+</a>
