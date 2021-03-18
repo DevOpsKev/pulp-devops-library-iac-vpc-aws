@@ -8,7 +8,7 @@
 [![Hashicorp/AWS Version](https://img.shields.io/badge/hashicorp/aws-=>%203.0-green?style=flat-square)](https://github.com/hashicorp/terraform-provider-aws) 
 [![Latest](https://img.shields.io/badge/latest-0.0.0-green?style=flat-square)](../../releases) 
 
-# AWS VPC Module from the Pulp Devops Library
+# AWS VPC Module from the Pulp DevOps Library
 This repository contains the [terraform](https://www.terraform.io/) configuration code that describes the [AWS](https://aws.amazon.com/) VPC Module from the Pulp DevOps Library.
 
 ![aws vpc](_docs/architecture.png)
